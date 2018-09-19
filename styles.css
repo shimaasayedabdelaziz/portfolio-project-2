@@ -1,0 +1,38 @@
+box{
+   width:300px;
+   height:40px;
+   color:#3B9C9C;
+   margin-left:200px;
+   margin-top:10px;
+   font-weight:bold;
+   line-height:1.5px;
+   font-size:2vw;
+   
+   
+}
+hr{
+	size:15px;
+	color:#000;
+}
+
+header{
+    background-color: #3B9C9C;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+.header1{
+    background-color:#3B9C9C;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+	margin-top:20px;
+}
+a{
+	color:#4E387E;
+	text-decoration:underline;
+}
+
+
